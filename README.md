@@ -1,4 +1,5 @@
 # Factorization Calculator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 *This online calculator computes prime factorization of a positive integer and checks if a number is prime.*
 This web-app was written using [React.js](https://reactjs.org) library and performs calculations locally using JavaScript language.
